@@ -1,0 +1,6 @@
+#               表示此为注释,将被Git忽略
+*.class           表示忽略所有 .class 结尾的文件
+*.log
+*.jar
+*.war
+/tj/tmp
